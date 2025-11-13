@@ -175,7 +175,7 @@ export default function MainPage() {
               transition={{ type: 'spring', stiffness: 300 }}
             >
               <img
-                src="/profile.jpg"
+                src="/profile.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
