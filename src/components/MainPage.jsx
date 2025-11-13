@@ -220,26 +220,26 @@ export default function MainPage() {
                   {
                     icon: Mail,
                     label: 'Email',
-                    href: 'mailto:tmlsn@hotmail.com',
-                    text: 'tmlsn@hotmail.com',
+                    href: 'mailto:tlxq@proton.me',
+                    text: 'tlxq@proton.me',
                   },
                   {
                     icon: Github,
                     label: 'GitHub',
-                    href: 'https://github.com/tombenrex',
-                    text: 'tombenrex',
+                    href: 'https://github.com/tlxq',
+                    text: 'tlxq',
                   },
                   {
                     icon: Linkedin,
                     label: 'LinkedIn',
-                    href: 'https://linkedin.com/in/tmlsn',
-                    text: 'tmlsn',
+                    href: 'https://linkedin.com/in/tlxq',
+                    text: 'Tom Larsson',
                   },
                   {
                     icon: Globe,
                     label: 'Website',
-                    href: 'https://tombenrex.me',
-                    text: 'tombenrex.me',
+                    href: 'https://tlxq.dev',
+                    text: 'tlxq.dev',
                   },
                 ].map((social) => (
                   <motion.a
